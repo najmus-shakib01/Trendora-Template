@@ -26,8 +26,8 @@
 git clone https://github.com/najmus-shakib01/Trendora-Template.git
 cd trendora
 
+---
 
 ## 🖼️ Screenshots
 
 <img src="https://res.cloudinary.com/daasda9rp/image/upload/v1763021611/screencapture-127-0-0-1-8000-2025-11-13-14_11_20_efppui.png">
-
