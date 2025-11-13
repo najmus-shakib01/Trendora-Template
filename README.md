@@ -29,27 +29,5 @@ cd trendora
 
 ## 🖼️ Screenshots
 
-### 🏠 Homepage
-![Homepage](https://res.cloudinary.com/daasda9rp/image/upload/v1763021836/screencapture-127-0-0-1-8000-admin-2025-11-13-14_17_02_cgplo3.png)
-
-### 🛍️ Register Page
-![Register Page](https://res.cloudinary.com/daasda9rp/image/upload/v1763021831/screencapture-127-0-0-1-8000-accounts-register-2025-11-13-14_15_46_ncymay.png)
-
-### 🔐 Sign In Page
-![Sign In Page](https://res.cloudinary.com/daasda9rp/image/upload/v1763021830/screencapture-127-0-0-1-8000-accounts-signin-2025-11-13-14_15_30_snblao.png)
-
-### 🏷️ Store Page
-![Store Page](https://res.cloudinary.com/daasda9rp/image/upload/v1763021821/screencapture-127-0-0-1-8000-2025-11-13-14_16_06_clbsw4.png)
-
-### 👕 Jeans Category
-![Jeans Category](https://res.cloudinary.com/daasda9rp/image/upload/v1763021719/screencapture-127-0-0-1-8000-store-jeans-2025-11-13-14_14_55_mevf7j.png)
-
-### 👔 Shirts Category
-![Shirts Category](https://res.cloudinary.com/daasda9rp/image/upload/v1763021680/screencapture-127-0-0-1-8000-store-shirts-2025-11-13-14_14_26_psmvqc.png)
-
-### ⚙️ Store View
-![Store View](https://res.cloudinary.com/daasda9rp/image/upload/v1763021666/screencapture-127-0-0-1-8000-store-2025-11-13-14_13_35_oietdw.png)
-
-### 🧩 Admin Dashboard
-![Admin Dashboard](https://res.cloudinary.com/daasda9rp/image/upload/v1763021611/screencapture-127-0-0-1-8000-2025-11-13-14_11_20_efppui.png)
+<img src="https://res.cloudinary.com/daasda9rp/image/upload/v1763021611/screencapture-127-0-0-1-8000-2025-11-13-14_11_20_efppui.png">
 
