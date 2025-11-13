@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*$py.class
+
+# Virtual environment
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+*.py~
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+static_root/
+local_settings.py
+
+# VSCode settings
+.vscode/
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Migrations (optional — যদি auto-gen না রাখতে চাও)
+# **/migrations/*.py
+# !**/migrations/__init__.py
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Backup files
+*.bak
+*.old
+
+# Pytest / coverage
+.coverage
+htmlcov/
+.pytest_cache/
